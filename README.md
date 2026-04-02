@@ -84,7 +84,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra06-cdk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+## 🐍 Contribution Snake
 
+![snake](https://github.com/vmishra06-cdk/vmishra06-cdk/blob/output/snake.svg)
 <h2 align="center">🐍 Contribution Activity</h2>
 <p align="center">
   <picture>
