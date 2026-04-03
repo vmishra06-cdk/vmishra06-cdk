@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Vedant%20Mishra&fontSize=50&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Tech%20Lead&descAlignY=70&descSize=18" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Vedant%20Mishra&fontSize=50&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Tech%20Lead&descAlignY=70&descSize=18" alt="Header" /> 
 </div>
 
 <p align="center">
@@ -24,7 +24,7 @@
         <h2>👨‍💻 About Me</h2>
         <p>Building Smart Systems, Not Just Code. ⚡</p>
         <ul>
-          <li>🎓 <b>Education:</b> B.Tech in Computer Science Engineering @ VIT Bhopal University (Expected 2028)</li>
+          <li>🎓 <b>Education:</b> B.Tech in Computer Science Engineering @ Vellore Institute of Technology (2028)</li>
           <li>💻 <b>Leadership:</b> Technical Lead at BitByBit Club (Jan 2026 - Present)</li>
           <li>🤖 <b>Research:</b> Working on integrating Molecular Orbital Theory with AI/ML</li>
           <li>💰 <b>Availability:</b> Open for Freelance Opportunities</li>
