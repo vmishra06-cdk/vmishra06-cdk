@@ -32,7 +32,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="assets/vedant-3d-model-hybrid.gif" alt="Vedant Mishra 3D Model Hybrid" width="100%"/>
+        <img src="assets/vedant-line-art.gif" alt="Vedant Mishra Line Art Portrait" width="100%"/>
       </td>
     </tr>
   </table>
