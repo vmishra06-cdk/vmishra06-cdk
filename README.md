@@ -1,21 +1,21 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:000000&height=250&section=header&text=Vedant%20Mishra&fontSize=50&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Tech%20Lead&descAlignY=70&descSize=18" alt="Header" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:000000&height=250&section=header&text=Vedant%20Mishra&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Tech%20Lead&descAlignY=70&descSize=18" alt="Header" /> 
 </div>
 
 <p align="center">
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+👨‍💻;AI+%2F+ML+Enthusiast+🤖;Technical+Lead+%40+BitByBit+Club+🚀;Computer+Vision+%26+Automation+Builder+⚡;Open+for+Freelance+💼" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+👨‍💻;AI+%2F+ML+Enthusiast+🤖;Technical+Lead+%40+BitByBit+Club+🚀;Computer+Vision+%26+Automation+Builder+⚡;Open+for+Freelance+💼" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedant-mishra-b629612b7/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=000000"/></a>
-  <a href="https://github.com/vmishra06-cdk"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=000000"/></a>
-  <a href="mailto:vedantmishra0605@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=000000"/></a>
-  <a href="https://my-portfolio-roan-one-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=00F7FF&labelColor=000000"/></a>
+  <a href="https://www.linkedin.com/in/vedant-mishra-b629612b7/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000"/></a>
+  <a href="https://github.com/vmishra06-cdk"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/></a>
+  <a href="mailto:vedantmishra0605@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"/></a>
+  <a href="https://my-portfolio-roan-one-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF&labelColor=000000"/></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <div align="center">
   <table>
@@ -38,7 +38,7 @@
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <h2 align="center">⚡ Tech Arsenal & Skills</h2>
 
@@ -75,7 +75,7 @@
   </table>
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <h2 align="center">🔥 Featured Projects</h2>
 
@@ -92,7 +92,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <h2 align="center">🏆 3D GitHub Achievements</h2>
 
@@ -102,20 +102,20 @@
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmishra06-cdk&show_icons=true&bg_color=000000&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&border_color=1c2128"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmishra06-cdk&background=000000&border=1c2128&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vmishra06-cdk&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=222222"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmishra06-cdk&background=000000&border=222222&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra06-cdk&layout=compact&bg_color=000000&title_color=00F7FF&text_color=ffffff&border_color=1c2128"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra06-cdk&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=222222"/>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
@@ -127,10 +127,10 @@
   </picture>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+---
 
 <div align="center">
   <p><b>⚡ "Building Smart Systems, Not Just Code." ⚡</b></p>
-  <img src="https://img.shields.io/badge/Built%20With-Love-000000?style=for-the-badge&logoColor=00F7FF"/>
-  <img src="https://img.shields.io/badge/Made%20With-Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Built%20With-Love-000000?style=for-the-badge&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Made%20With-Python-000000?style=for-the-badge&logo=python&logoColor=FFFFFF"/>
 </div>
