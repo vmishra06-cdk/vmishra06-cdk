@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=250&section=header&text=Vedant%20Mishra&fontSize=50&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Tech%20Lead&descAlignY=70&descSize=18" alt="Header" /> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:080808,100:000000&height=250&section=header&text=Vedant%20Mishra&fontSize=50&fontColor=00F7FF&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20AI%20Builder%20|%20Tech%20Lead&descAlignY=70&descSize=18" alt="Header" /> 
 </div>
 
 <p align="center">
@@ -9,10 +9,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vedant-mishra-b629612b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/vmishra06-cdk"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:vedantmishra0605@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://my-portfolio-roan-one-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=Vercel&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/vedant-mishra-b629612b7/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F7FF&labelColor=000000"/></a>
+  <a href="https://github.com/vmishra06-cdk"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00F7FF&labelColor=000000"/></a>
+  <a href="mailto:vedantmishra0605@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F7FF&labelColor=000000"/></a>
+  <a href="https://my-portfolio-roan-one-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=00F7FF&labelColor=000000"/></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -43,7 +43,7 @@
 <h2 align="center">⚡ Tech Arsenal & Skills</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,flask,mysql,git,github,pandas,opencv,linux,vscode,pycharm&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,html,css,react,flask,mysql,git,github,pandas,opencv,linux,vscode,pycharm&perline=8&theme=dark" />
 </p>
 
 <div align="center">
@@ -98,7 +98,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vmishra06-cdk&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="3D GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=vmishra06-cdk&theme=darkhub&no-frame=false&no-bg=true&margin-w=4" alt="3D GitHub Profile Trophies" />
   </a>
 </p>
 
@@ -107,12 +107,12 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vmishra06-cdk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmishra06-cdk&theme=tokyonight&hide_border=true&background=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vmishra06-cdk&show_icons=true&bg_color=000000&title_color=00F7FF&text_color=ffffff&icon_color=00F7FF&border_color=1c2128"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmishra06-cdk&background=000000&border=1c2128&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00F7FF&sideLabels=00F7FF"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra06-cdk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra06-cdk&layout=compact&bg_color=000000&title_color=00F7FF&text_color=ffffff&border_color=1c2128"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
@@ -131,6 +131,6 @@
 
 <div align="center">
   <p><b>⚡ "Building Smart Systems, Not Just Code." ⚡</b></p>
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg"/>
+  <img src="https://img.shields.io/badge/Built%20With-Love-000000?style=for-the-badge&logoColor=00F7FF"/>
+  <img src="https://img.shields.io/badge/Made%20With-Python-000000?style=for-the-badge&logo=python&logoColor=00F7FF"/>
 </div>
