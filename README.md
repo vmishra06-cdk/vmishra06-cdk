@@ -32,7 +32,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="assets/3d-face-animation.gif" alt="3D AI Face Mesh Animation" width="100%"/>
+        <img src="assets/cyber-3d-avatar.gif" alt="3D Cybernetic AI Avatar" width="100%"/>
       </td>
     </tr>
   </table>
