@@ -32,7 +32,7 @@
         </ul>
       </td>
       <td width="40%" align="center">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+        <img src="assets/3d-face-animation.gif" alt="3D AI Face Mesh Animation" width="100%"/>
       </td>
     </tr>
   </table>
