@@ -108,12 +108,24 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vmishra06-cdk&show_icons=true&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=222222"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmishra06-cdk&background=000000&border=222222&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmishra06-cdk&background=000000&border=222222&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&timezone=Asia%2FKolkata"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmishra06-cdk&layout=compact&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=222222"/>
 </p>
+
+---
+
+<h2 align="center">⚡ Recent Activity</h2>
+
+<!--START_SECTION:activity-->
+- 🔨 Pushed commit to [`vmishra06-cdk/vmishra06-cdk`](https://github.com/vmishra06-cdk/vmishra06-cdk): ["Update project links for Veyanix and GramSetu"](https://github.com/vmishra06-cdk/vmishra06-cdk/commit/96f20fe)
+- 🚀 Added repository [`vmishra06-cdk/Veyanix`](https://github.com/vmishra06-cdk/Veyanix)
+- 🚀 Added repository [`vmishra06-cdk/GramSetu`](https://github.com/vmishra06-cdk/GramSetu)
+- 🔨 Pushed commit to [`vmishra06-cdk/vmishra06-cdk`](https://github.com/vmishra06-cdk/vmishra06-cdk): ["Update profile with pure white text and typography on pitch black theme"](https://github.com/vmishra06-cdk/vmishra06-cdk/commit/7021edc)
+- 🔨 Pushed commit to [`vmishra06-cdk/vmishra06-cdk`](https://github.com/vmishra06-cdk/vmishra06-cdk): ["Convert profile into pure dark AMOLED black theme with cyan accents"](https://github.com/vmishra06-cdk/vmishra06-cdk/commit/b86e091)
+<!--END_SECTION:activity-->
 
 ---
 
