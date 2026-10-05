@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=FFFFFF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+👨‍💻;AI+%2F+ML+Enthusiast+🤖;Technical+Lead+%40+BitByBit+Club+🚀;Computer+Vision+%26+Automation+Builder+⚡;Open+for+Freelance+💼" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer+👨‍💻;AI+%2F+ML+Enthusiast+🤖;Technical+Lead+%40+BitByBit+Club+🚀;Computer+Vision+%26+Automation+Builder+⚡;Open+for+Freelance+💼" />
   </a>
 </p>
 
@@ -83,8 +83,8 @@
 
 | 🚀 Project | 🛠️ Tech Stack | 💡 Highlights | 🔗 Links |
 | :--- | :--- | :--- | :--- |
-| **Veyanix** | Flask, OCR, Machine Learning | Autonomous Intelligence Platform & Web OS for smart productivity and workflows | [Live Demo](https://v-os-ywqb.vercel.app/) • [GitHub Repo](https://github.com/vmishra06-cdk/Veyransh) |
-| **GramSetu** | Python, AI, Bilingual NLP | AI-Powered Smart Village Platform digitizing governance, public schemes & grievance resolution | Project Report |
+| **Veyanix** | Flask, OCR, Machine Learning | Autonomous Intelligence Platform & Web OS for smart productivity and workflows | [Live Demo](https://v-os-ywqb.vercel.app/) • [GitHub Repo](https://github.com/vmishra06-cdk/Veyanix) |
+| **GramSetu** | Python, AI, Bilingual NLP | AI-Powered Smart Village Platform digitizing governance, public schemes & grievance resolution | [GitHub Repo](https://github.com/vmishra06-cdk/GramSetu) |
 | **Digital Legacy Vault** | Full Stack, Cryptography, Security | Secure digital inheritance: *"Decide today what happens to your digital life tomorrow"* | [GitHub Repo](https://github.com/vmishra06-cdk/Digital-Legacy-Vault) |
 | **Face Detection & Air Writing** | Python, OpenCV, MediaPipe | Real-time face tracking & index-finger mid-air drawing without peripheral hardware | [GitHub Repo](https://github.com/vmishra06-cdk/Face-Detection-Air-Writing) |
 | **SmartTrace AI** | Python, AI/ML Analytics | Intelligent real-world process tracking & analytics platform | [Live Demo](https://smart-trace-ai-ct4r.vercel.app/) • [GitHub Repo](https://github.com/vmishra06-cdk/SmartTrace) |
