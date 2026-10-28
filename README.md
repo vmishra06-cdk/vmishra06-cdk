@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/vedant-mishra-b629612b7/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=000000"/></a>
   <a href="https://github.com/vmishra06-cdk"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=000000"/></a>
   <a href="mailto:vedantmishra0605@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000"/></a>
-  <a href="https://my-portfolio-roan-one-78.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF&labelColor=000000"/></a>
+  <a href="https://vedant-mishra-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Vercel&logoColor=FFFFFF&labelColor=000000"/></a>
 </p>
 
 ---
